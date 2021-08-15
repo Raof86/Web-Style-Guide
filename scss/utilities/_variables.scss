@@ -1,0 +1,26 @@
+// Descriptive colour variables
+
+$grey           :#777;
+$light-green    :#58e1c1;
+$light-blue     :#51ddfc;
+$purple         :#927bc1;
+$light-orange   :#fd7856;
+
+
+// Functional colour variables
+
+$color-prim                     :$light-green;
+$color-sec                      :$grey;
+$color-background-light         :$light-blue;
+$color-background               :$purple;
+$color-background-grid-button   :$light-orange;
+
+
+// Descriptive media queries variables
+
+$min-width       :768px;
+
+
+// Functional media queries variables
+
+$small-screens-laptops  :$min-width;
